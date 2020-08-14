@@ -32,7 +32,7 @@
 Get in touch via `email <mailto:openstack-dev@lists.openstack.org>`_. Use
 [Neutron] in your subject.
 
-To learn how to contribute:  [CONTRIBUTING.rst](./ CONTRIBUTING.rst)
+To learn how to contribute:  [CONTRIBUTING.rst](./CONTRIBUTING.rst)
 
 
 
