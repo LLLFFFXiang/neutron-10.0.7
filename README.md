@@ -18,7 +18,15 @@
 ## 百度云地址
 * 链接:https://pan.baidu.com/s/1uR98m5Fu7hZJ4ccngoIb1w  密码:egt1
 
-## Team and repository tags
+
+========================
+Team and repository tags
+========================
+
+.. image:: http://governance.openstack.org/badges/neutron.svg
+    :target: http://governance.openstack.org/reference/tags/index.html
+
+.. Change things from this point on
 
 * [openstack](https://www.openstack.org/): https://www.openstack.org/
 
