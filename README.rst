@@ -25,6 +25,7 @@ OpenStack Neutron
 
 * 链接:https://pan.baidu.com/s/1uR98m5Fu7hZJ4ccngoIb1w  密码:egt1
 
+* 欢迎留言 `email <mailto:zxjlfx@gmail.com>`_
 
 ========================
 Team and repository tags
