@@ -35,19 +35,19 @@ Team and repository tags
 
 .. Change things from this point on
 
-* [openstack](https://www.openstack.org/): https://www.openstack.org/
+* OpenStack: https://www.openstack.org/
 
-* [image](http://governance.openstack.org/badges/neutron.svg): http://governance.openstack.org/badges/neutron.svg
-* [target](http://governance.openstack.org/reference/tags/index.html): http://governance.openstack.org/reference/tags/index.html
+* image: http://governance.openstack.org/badges/neutron.svg
+* target: http://governance.openstack.org/reference/tags/index.html
 
-* [Documentation](http://docs.openstack.org): http://docs.openstack.org
-* [Features](http://specs.openstack.org/openstack/neutron-specs): http://specs.openstack.org/openstack/neutron-specs
-* [Defects](http://launchpad.net/neutron): http://launchpad.net/neutron
+* Documentation: http://docs.openstack.org
+* Features: http://specs.openstack.org/openstack/neutron-specs
+* Defects: http://launchpad.net/neutron
 
 Get in touch via `email <mailto:openstack-dev@lists.openstack.org>`_. Use
 [Neutron] in your subject.
 
-To learn how to contribute:  [CONTRIBUTING.rst](./CONTRIBUTING.rst)
+To learn how to contribute:  CONTRIBUTING.rst
 
 
 
