@@ -4,7 +4,7 @@
 
 ## 相关书籍
 
-深入学习 OpenStack Neutron
+《深入理解 OpenStack Neutron》
 
 * 第1章 Neutron概述
 * 第2章 Linux虚拟网络基础
@@ -19,6 +19,8 @@
 * 链接:https://pan.baidu.com/s/1uR98m5Fu7hZJ4ccngoIb1w  密码:egt1
 
 ## Team and repository tags
+
+* [openstack](https://www.openstack.org/): https://www.openstack.org/
 
 * [image](http://governance.openstack.org/badges/neutron.svg): http://governance.openstack.org/badges/neutron.svg
 * [target](http://governance.openstack.org/reference/tags/index.html): http://governance.openstack.org/reference/tags/index.html
